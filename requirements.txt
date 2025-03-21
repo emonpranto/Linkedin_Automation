@@ -1,0 +1,11 @@
+selenium 
+webdriver-manager
+load_dotenv
+requests 
+pandas
+waiting
+pdfplumber 
+openai
+undetected-chromedriver
+torch
+transformers
